@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ![Spark UI3](https://github.com/Thamer0101/Data-Architecture/assets/127024138/973e4fb8-a4ee-495b-aab1-8407fa9ef3dd)
 
-## 3- To see analytics, statistics and visualizations ,open "Exporatpry Analysis".ipynb file.
+## 3- To see analytics, statistics and visualizations ,open "Analysis".ipynb file.
 ________________________________________________________________________________________________________________________________________
 
 ### Tools and technologies used in this project:

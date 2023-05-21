@@ -37,17 +37,16 @@ ________________________________________________________________________________
 ## 4- Insights and Recommendations:
 After seeing the data analytics and visualizations, I will make recommendations to the airlines and passengers as follows:
 
+
+
 ### Recommendations for Airlines:
 - Depending on the data analysis, Chicago O'Hare and Hartsfield-Jackson Atlanta airports are the most late arrival and departure airports, so I would recommend       airlines to increase the effort in managing arrivals and departures at airports in general and these two airports in particular.
 - I found a relationship between the flight time and the arrival delay. The longer the flight time, the less the arrival delay, I would recommend airlines to         focusing on short flights and manage them more to decrease arrival time.
--
+- 
 
 ### Recommendations for Passengers:
 - There is a high rate of flight delays in June and July of the year, I would recommend passengers to avoid booking flights in these two months.
 - "Delta Air Lines", "Hawaiian Airlines" and "Virgin America" has best rate of departure delays, if you want to save your time, then book your tickets from them.
--
-
-Airport "Chicago O'Hare" and "Hartsfild-Jackson Atlanta" are the most delayed airports in arrival and departure, 
 
 
 
